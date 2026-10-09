@@ -42,11 +42,15 @@ The goal is to transform raw job market data into actionable insights through da
 
 ## Dataset
 
-The initial dataset will be selected based on its coverage of occupations, industries, job skills, salary information, and experience levels.
+This project will use a publicly available job-postings dataset sourced from Kaggle to investigate skill demand, salary trends, and occupational requirements across industries.
 
-The analysis will document the dataset's source, collection period, licensing, limitations, and data-cleaning procedures.
+The dataset will be evaluated for occupational coverage, data quality, available skill information, salary completeness, and date range before analysis begins.
 
-Because job postings represent a particular source and period, findings will be interpreted within the context of the available data rather than assumed to represent the entire labor market.
+Source: LinkedIn Job Postings dataset (2023–2024)
+
+Status: Dataset validation pending.
+
+The final documentation will include the dataset's structure, relevant variables, licensing information, preprocessing decisions, and limitations.
 
 ## Planned Analysis
 
